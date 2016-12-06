@@ -25,6 +25,7 @@ echo '<br>';
 ?>
 <h3>test</h3>
 <p>test</p>
+<p>Coucou!</p>
 
 </body>
 </html>
