@@ -26,7 +26,11 @@ echo '<br>';
 <h3>test</h3>
 <p>test</p>
 <p>Coucou!</p>
+<<<<<<< HEAD
 ++++++
+=======
+	<p> test</p>
+>>>>>>> origin/master
 
 </body>
 </html>
