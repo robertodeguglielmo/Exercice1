@@ -15,7 +15,7 @@
 	}else{
 		echo 'Je n\'ai pas de nom';
 	}
-echo '<br>';
+	echo '<br>';
 	$MonAdresse='';
 	if($MonAdresse!=''){
 		echo 'Mon adresse est : "'.$MonAdresse.'"';
